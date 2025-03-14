@@ -38,18 +38,18 @@
   
   ## 📫 Contact 📫
   
-  <a href="https://velog.io/@oka1313">
+  <a href="https://semin-develop.tistory.com/">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:popqr1@gamil.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
   
   ---
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/zio-s&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/zio-s&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
