@@ -39,17 +39,17 @@
   ## 📫 Contact 📫
   
   <a href="https://semin-develop.tistory.com/">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
   </a>
-  <a href="mailto:popqr1@gamil.com">
+  <a href="mailto:popqr1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
   
   ---
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/zio-s&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zio-s&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/zio-s&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zio-s&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
